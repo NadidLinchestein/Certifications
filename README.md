@@ -2,8 +2,8 @@
 
 A list of some Certifications I've worked towards over the years. It includes Certifications I've gotten when:
 
-- I was first starting programming at age 11.
-- Institute of Applied Technology courses I had completed at age 16.
+- Sololearn Certificates I received when I first starting programming at age 11.
+- Institute of Applied Technology courses I had completed at the age of 16.
 - Microsoft Azure Cloud Computing Certifications I've gotten at age 17.
 - Google Professional Certifications I've gotten at age 17.
 
